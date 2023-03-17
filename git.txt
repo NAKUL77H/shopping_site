@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m"FISRT COMMIT"
+git remote add origin https://github.com/NAKUL77H/shopping_site.git
+git push --set-upstream origin master
